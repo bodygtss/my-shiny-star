@@ -16,8 +16,8 @@ const LYRICS = [
   LYRICS.sort((a,b)=>a.time-b.time);
 })();
 
-const START_AT = 38;
-const END_AT = 84;
+const START_AT = 0;
+const END_AT = 46;
 const MESSAGE = `NASA called. They want their brightest star back.\nIf I had a star for every time you crossed my mind, I’d have a galaxy to give you. ✨.
 Just ask—it’s yours!
 i really love youu soooooooooooo much my little baby`;
